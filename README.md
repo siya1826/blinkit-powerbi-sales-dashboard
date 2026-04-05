@@ -1,5 +1,3 @@
-# blinkit-powerbi-sales-dashboard
-
 # Blinkit Sales Analysis Dashboard (Power BI)
 
 ## Project Overview
